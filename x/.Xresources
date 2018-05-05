@@ -66,6 +66,6 @@
 ! ------------------------------------------------------------------------------
 !
 
-*.font: xft:Ubuntu Mono:pixelsize=18,style=regular
+*.font: xft:IBM Plex Mono:pixelsize=16,style=SemiBold
 URxvt.scrollBar: false
-
+URxvt.letterSpace: -1

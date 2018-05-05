@@ -1,11 +1,18 @@
 execute pathogen#infect()
 
+" ale linter options -----
+" -----------------------
+
+
+
 " lightline colorscheme
 let g:lightline = {
       \ 'colorscheme': 'jellybeans',
       \ }
 
 color horseradish256
+
+let python_highlight_all = 1
 
 set nocompatible
 set number
