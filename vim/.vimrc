@@ -10,7 +10,7 @@ let g:lightline = {
       \ 'colorscheme': 'jellybeans',
       \ }
 
-color horseradish256
+colors deus 
 
 let python_highlight_all = 1
 
