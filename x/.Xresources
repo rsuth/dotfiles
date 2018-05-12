@@ -66,6 +66,6 @@
 ! ------------------------------------------------------------------------------
 !
 
-*.font: xft:IBM Plex Mono:pixelsize=16,style=SemiBold
+*.font: xft:IBM Plex Mono:pixelsize=16,style=Bold
 URxvt.scrollBar: false
 URxvt.letterSpace: -1

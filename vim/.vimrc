@@ -10,7 +10,8 @@ let g:lightline = {
       \ 'colorscheme': 'jellybeans',
       \ }
 
-colors deus 
+colorscheme gruvbox 
+set background=dark
 
 let python_highlight_all = 1
 
